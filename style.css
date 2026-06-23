@@ -1,0 +1,16 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+nav{
+    background-color: black;
+    color: white;
+    padding: 15px;
+    gab: 35px;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    gap:35px;
+}
